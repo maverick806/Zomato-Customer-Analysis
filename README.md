@@ -164,7 +164,7 @@ This project is for educational purposes under an academic course on Machine Lea
 
 Aditya Khare
 - GitHub: [@maverick806](https://github.com/maverick806)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- LinkedIn: [Aditya Khare](https://https://www.linkedin.com/in/aditya-khare-08515228a/)
 
 ---
 
